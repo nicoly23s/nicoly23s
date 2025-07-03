@@ -4,7 +4,7 @@ Bem vindos ao meu perfil no GitHub ^^ estou buscando sempre aprender
 ### ✨ Sobre mim  
 🌱 Atualmente estou aprimorando minhas habilidades em [Python,SQL,Git]
 
-🌱 Tenho enteresse na área de análise de dados 
+🌱 Tenho interesse na área de análise de dados 
 
 🌱 Caloura de Eng. Telecomunicações :)
 ### 🚧 Em desenvolvimento:
